@@ -6,11 +6,13 @@ Este é um programa em Python que permite a redução da amostragem em uma image
 
 - Python 3.x
 - Biblioteca OpenCV (cv2)
+- Biblioteca NumPy
 
-Certifique-se de ter o Python instalado em seu sistema e instale a biblioteca OpenCV usando o seguinte comando:
+Certifique-se de ter o Python instalado em seu sistema e instale as bibliotecas OpenCV e NumPy usando os seguintes comandos:
 
 ```bash
 pip install opencv-python
+pip install numpy
 ```
 
 ## Utilização
